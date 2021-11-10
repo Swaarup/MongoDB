@@ -1,0 +1,401 @@
+"menuId";"itemName";"price";"category";"ingredients";"image";"availability";"restaurantID";"avg_rating"
+1;"Chowmein";550.0;"Chinese";"Dairy";"";"Y";9;4.0
+2;"Pork Soup";240.0;"Chinese";"Vegetables";"";"N";1;2.0
+3;"Schezwan Chicken";580.0;"Chinese";"Flour";"";"Y";6;4.0
+4;"Mushroom Soy Mix";548.0;"Chinese";"Meat";"";"Y";13;3.0
+5;"Veg Manchurian";452.0;"Chinese";"Wheat";"";"N";14;3.0
+6;"Meat Platter";819.0;"Chinese";"Vegan";"";"Y";16;0.0
+7;"Veggie Delight";939.0;"Chinese";"Spice";"";"Y";4;1.66667
+8;"Hot n Spicy Ramen";409.0;"Chinese";"Fish";"";"Y";12;0.0
+9;"Schezwan Chicken";675.0;"Chinese";"Vegan";"";"N";4;2.0
+10;"Pepperoni Noodles";108.0;"Chinese";"Fish";"";"Y";9;2.33333
+11;"Veggie Delight";508.0;"Chinese";"Dairy";"";"N";14;0.0
+12;"Chicken Noodles";480.0;"Chinese";"Corn";"";"N";4;2.66667
+13;"Chinese Bokchoy";310.0;"Chinese";"Fish";"";"Y";16;0.0
+14;"Pepperoni Noodles";842.0;"Chinese";"Vegetables";"";"N";8;0.0
+15;"Veg Fried Rice";994.0;"Chinese";"Fish";"";"Y";18;0.0
+16;"Veg Fried Rice";577.0;"Chinese";"Spice";"";"N";19;4.0
+17;"Chicken Noodles";336.0;"Chinese";"Tomato";"";"Y";14;2.5
+18;"Mix Manchurian";600.0;"Chinese";"Vegetables";"";"N";19;3.0
+19;"Mix Manchurian";170.0;"Chinese";"Spice";"";"N";14;4.0
+20;"Chinese Bokchoy";649.0;"Chinese";"Wheat";"";"N";9;0.0
+21;"Pepperoni Noodles";501.0;"Chinese";"Vegetables";"";"N";10;4.0
+22;"Chicken Noodles";914.0;"Chinese";"Wheat";"";"N";15;0.0
+23;"Pork Soup";744.0;"Chinese";"Corn";"";"N";1;0.0
+24;"Pepperoni Noodles";191.0;"Chinese";"Spice";"";"N";12;4.0
+25;"Chicken Noodles";315.0;"Chinese";"Spice";"";"Y";15;0.0
+26;"Veggie Delight";900.0;"Chinese";"Dairy";"";"N";19;0.0
+27;"Pepperoni Noodles";205.0;"Chinese";"Wheat";"";"Y";12;2.0
+28;"Chicken Noodles";277.0;"Chinese";"Corn";"";"N";2;0.0
+29;"Schezwan Chicken";321.0;"Chinese";"Tomato";"";"N";14;0.0
+30;"Veggie Delight";919.0;"Chinese";"Corn";"";"Y";8;0.0
+31;"Hot n Spicy Ramen";356.0;"Chinese";"Flour";"";"Y";3;0.0
+32;"Schezwan Chicken";679.0;"Chinese";"Dairy";"";"N";16;0.0
+33;"Pepperoni Noodles";772.0;"Chinese";"Flour";"";"N";18;3.0
+34;"Meat Platter";998.0;"Chinese";"Wheat";"";"Y";16;3.0
+35;"Mushroom Soy Mix";150.0;"Chinese";"Fish";"";"Y";16;3.0
+36;"Schezwan Chicken";852.0;"Chinese";"Flour";"";"Y";19;0.0
+37;"Veggie Delight";499.0;"Chinese";"Corn";"";"N";20;0.0
+38;"Fried Chicken";362.0;"Chinese";"Wheat";"";"N";10;1.0
+39;"Mushroom Soy Mix";236.0;"Chinese";"Vegetables";"";"N";10;0.0
+40;"Veg Fried Rice";707.0;"Chinese";"Spice";"";"N";9;0.0
+41;"Fried Chicken";186.0;"Chinese";"Fish";"";"N";4;1.0
+42;"Veg Fried Rice";226.0;"Chinese";"Meat";"";"Y";2;2.0
+43;"Veg Manchurian";531.0;"Chinese";"Fish";"";"Y";9;1.75
+44;"Chinese Bokchoy";852.0;"Chinese";"Spice";"";"N";7;0.0
+45;"Schezwan Chicken";267.0;"Chinese";"Meat";"";"N";7;2.0
+46;"Chicken Noodles";307.0;"Chinese";"Vegan";"";"N";4;0.0
+47;"Chicken Manchurian";765.0;"Chinese";"Wheat";"";"N";4;0.0
+48;"Schezwan Chicken";626.0;"Chinese";"Wheat";"";"Y";14;1.0
+49;"Meat Platter";190.0;"Chinese";"Tomato";"";"Y";13;0.0
+50;"Chicken Noodles";446.0;"Chinese";"Vegetables";"";"N";5;0.0
+51;"Chicken Noodles";860.0;"Chinese";"Tomato";"";"N";17;2.25
+52;"Pork Soup";111.0;"Chinese";"Vegetables";"";"N";14;2.0
+53;"Pork Soup";173.0;"Chinese";"Tomato";"";"Y";17;5.0
+54;"Pork Soup";272.0;"Chinese";"Fish";"";"Y";3;1.0
+55;"Mix Manchurian";585.0;"Chinese";"Spice";"";"N";9;5.0
+56;"Chowmein";100.0;"Chinese";"Wheat";"";"N";20;0.0
+57;"Mix Manchurian";820.0;"Chinese";"Wheat";"";"N";18;3.0
+58;"Pork Soup";568.0;"Chinese";"Dairy";"";"Y";4;0.0
+59;"Chicken Manchurian";644.0;"Chinese";"Corn";"";"N";9;0.0
+60;"Chicken Noodles";154.0;"Chinese";"Vegetables";"";"Y";10;1.0
+61;"Fried Chicken";122.0;"Chinese";"Corn";"";"N";1;0.0
+62;"Fried Chicken";349.0;"Chinese";"Vegan";"";"N";7;3.0
+63;"Chowmein";324.0;"Chinese";"Tomato";"";"Y";3;0.0
+64;"Chinese Bokchoy";537.0;"Chinese";"Spice";"";"Y";17;2.0
+65;"Veg Fried Rice";280.0;"Chinese";"Fish";"";"N";20;4.0
+66;"Veggie Delight";628.0;"Chinese";"Flour";"";"N";14;1.5
+67;"Chicken Noodles";775.0;"Chinese";"Fish";"";"N";14;0.0
+68;"Meat Platter";745.0;"Chinese";"Fish";"";"N";6;3.5
+69;"Hot n Spicy Ramen";496.0;"Chinese";"Corn";"";"Y";15;0.0
+70;"Fried Chicken";52.0;"Chinese";"Fish";"";"Y";10;4.0
+71;"Chicken Noodles";679.0;"Chinese";"Spice";"";"N";11;2.5
+72;"Fried Chicken";149.0;"Chinese";"Wheat";"";"N";14;0.0
+73;"Veg Fried Rice";514.0;"Chinese";"Tomato";"";"Y";5;0.0
+74;"Chowmein";510.0;"Chinese";"Vegan";"";"N";5;0.0
+75;"Chicken Noodles";240.0;"Chinese";"Wheat";"";"N";10;0.0
+76;"Meat Platter";658.0;"Chinese";"Meat";"";"Y";12;4.0
+77;"Mix Manchurian";325.0;"Chinese";"Wheat";"";"N";6;2.0
+78;"Chowmein";820.0;"Chinese";"Flour";"";"N";3;2.0
+79;"Veggie Delight";786.0;"Chinese";"Wheat";"";"Y";15;3.0
+80;"Schezwan Chicken";692.0;"Chinese";"Flour";"";"Y";2;0.0
+81;"Fried Chicken";448.0;"Chinese";"Flour";"";"N";2;0.0
+82;"Veg Manchurian";193.0;"Chinese";"Meat";"";"Y";3;3.0
+83;"Chowmein";444.0;"Chinese";"Tomato";"";"N";18;4.0
+84;"Veg Manchurian";131.0;"Chinese";"Spice";"";"N";18;0.0
+85;"Hot n Spicy Ramen";959.0;"Chinese";"Vegan";"";"Y";17;5.0
+86;"Chicken Noodles";146.0;"Chinese";"Meat";"";"Y";4;1.0
+87;"Veg Manchurian";118.0;"Chinese";"Meat";"";"N";11;2.0
+88;"Veg Fried Rice";674.0;"Chinese";"Dairy";"";"N";19;2.66667
+89;"Veg Fried Rice";795.0;"Chinese";"Dairy";"";"N";17;5.0
+90;"Pepperoni Noodles";150.0;"Chinese";"Spice";"";"Y";14;4.0
+91;"Veggie Delight";564.0;"Chinese";"Tomato";"";"N";14;2.5
+92;"Mushroom Soy Mix";167.0;"Chinese";"Wheat";"";"N";2;3.5
+93;"Schezwan Chicken";486.0;"Chinese";"Vegetables";"";"Y";4;3.0
+94;"Hot n Spicy Ramen";258.0;"Chinese";"Meat";"";"N";16;0.0
+95;"Schezwan Chicken";892.0;"Chinese";"Meat";"";"Y";19;2.0
+96;"Meat Platter";599.0;"Chinese";"Flour";"";"N";17;0.0
+97;"Pepperoni Noodles";146.0;"Chinese";"Flour";"";"N";13;0.0
+98;"Veggie Delight";886.0;"Chinese";"Meat";"";"Y";5;0.0
+99;"Veg Manchurian";141.0;"Chinese";"Fish";"";"Y";10;5.0
+100;"Pepperoni Noodles";63.0;"Chinese";"Dairy";"";"N";20;3.0
+201;"Paneer Tikka";752.0;"Indian";"Meat";"";"N";17;0.0
+202;"Mutton Kebab";268.0;"Indian";"Flour";"";"Y";10;0.0
+203;"Chicken Lolipop";595.0;"Indian";"Spice";"";"Y";4;0.0
+204;"Matka Mutton";442.0;"Indian";"Tomato";"";"N";10;0.0
+205;"Mutton Biryani";149.0;"Indian";"Corn";"";"Y";7;0.0
+206;"Chicken Tandoori";929.0;"Indian";"Fish";"";"N";9;0.0
+207;"Veg Kofta";581.0;"Indian";"Dairy";"";"N";18;0.0
+208;"Mutton Kebab";786.0;"Indian";"Vegan";"";"N";10;0.0
+209;"Mutton Biryani";348.0;"Indian";"Vegetables";"";"N";19;0.0
+210;"Chicken Biryani";321.0;"Indian";"Vegetables";"";"Y";6;0.0
+211;"Chicken Tandoori";897.0;"Indian";"Meat";"";"Y";10;0.0
+212;"Paneer Tikka";698.0;"Indian";"Flour";"";"N";17;0.0
+213;"Mutton Kebab";114.0;"Indian";"Vegetables";"";"Y";13;0.0
+214;"Butter Naan";810.0;"Indian";"Flour";"";"Y";10;0.0
+215;"Mutton Biryani";580.0;"Indian";"Wheat";"";"Y";14;0.0
+216;"Raita";737.0;"Indian";"Tomato";"";"Y";7;0.0
+217;"Chicken Lolipop";769.0;"Indian";"Flour";"";"N";7;0.0
+218;"Paneer Tikka";226.0;"Indian";"Vegetables";"";"Y";4;0.0
+219;"Chicken Keema Naan";383.0;"Indian";"Corn";"";"Y";12;0.0
+220;"Butter Naan";247.0;"Indian";"Flour";"";"N";3;0.0
+221;"Mutton Kebab";92.0;"Indian";"Vegetables";"";"Y";17;0.0
+222;"Chicken Keema Naan";305.0;"Indian";"Spice";"";"Y";11;0.0
+223;"Veg Thali Set";719.0;"Indian";"Spice";"";"Y";6;0.0
+224;"Chicken Lolipop";503.0;"Indian";"Vegetables";"";"Y";5;0.0
+225;"Roti Bread";743.0;"Indian";"Meat";"";"N";3;0.0
+226;"Chicken Tandoori";456.0;"Indian";"Corn";"";"Y";2;0.0
+227;"Butter Garlic Naan";674.0;"Indian";"Vegetables";"";"N";13;0.0
+228;"Paneer Tikka";412.0;"Indian";"Vegan";"";"Y";13;0.0
+229;"Chicken Lolipop";362.0;"Indian";"Meat";"";"Y";2;0.0
+230;"Chicken Biryani";892.0;"Indian";"Corn";"";"N";10;0.0
+231;"Aloo Dum";158.0;"Indian";"Wheat";"";"Y";17;0.0
+232;"Raita";466.0;"Indian";"Dairy";"";"Y";1;0.0
+233;"Butter Naan";539.0;"Indian";"Corn";"";"Y";14;0.0
+234;"Paneer Tikka";479.0;"Indian";"Corn";"";"Y";16;0.0
+235;"Chicken Keema Naan";159.0;"Indian";"Corn";"";"N";10;0.0
+236;"Veg Kofta";331.0;"Indian";"Meat";"";"N";4;0.0
+237;"Veg Kofta";866.0;"Indian";"Meat";"";"N";17;0.0
+238;"Veg Thali Set";538.0;"Indian";"Dairy";"";"Y";16;0.0
+239;"Veg Kofta";109.0;"Indian";"Meat";"";"N";10;0.0
+240;"Chicken Tandoori";338.0;"Indian";"Fish";"";"N";10;0.0
+241;"Chicken Biryani";911.0;"Indian";"Flour";"";"N";17;0.0
+242;"Matka Mutton";931.0;"Indian";"Tomato";"";"N";6;0.0
+243;"Veg Kofta";800.0;"Indian";"Dairy";"";"N";13;0.0
+244;"Butter Garlic Naan";789.0;"Indian";"Flour";"";"Y";15;0.0
+245;"Butter Garlic Naan";372.0;"Indian";"Meat";"";"N";8;0.0
+246;"Roti Bread";916.0;"Indian";"Vegan";"";"N";10;0.0
+247;"Matka Mutton";363.0;"Indian";"Flour";"";"N";8;0.0
+248;"Chicken Tandoori";535.0;"Indian";"Tomato";"";"N";10;0.0
+249;"Raita";257.0;"Indian";"Wheat";"";"N";6;0.0
+250;"Chicken Biryani";480.0;"Indian";"Tomato";"";"N";15;0.0
+251;"Matka Mutton";916.0;"Indian";"Fish";"";"Y";7;0.0
+252;"Mutton Biryani";889.0;"Indian";"Tomato";"";"N";16;0.0
+253;"Mutton Kebab";620.0;"Indian";"Meat";"";"Y";4;0.0
+254;"Chicken Keema Naan";621.0;"Indian";"Spice";"";"Y";10;0.0
+255;"Aloo Dum";478.0;"Indian";"Dairy";"";"N";1;0.0
+256;"Paneer Tikka";954.0;"Indian";"Fish";"";"N";20;0.0
+257;"Butter Naan";720.0;"Indian";"Vegetables";"";"N";5;0.0
+258;"Chicken Lolipop";695.0;"Indian";"Spice";"";"Y";20;0.0
+259;"Mutton Biryani";691.0;"Indian";"Flour";"";"Y";17;0.0
+260;"Butter Garlic Naan";935.0;"Indian";"Wheat";"";"N";3;0.0
+261;"Butter Naan";101.0;"Indian";"Vegetables";"";"Y";3;0.0
+262;"Aloo Dum";413.0;"Indian";"Spice";"";"Y";6;0.0
+263;"Mutton Kebab";305.0;"Indian";"Wheat";"";"Y";11;0.0
+264;"Paneer Tikka";172.0;"Indian";"Fish";"";"N";13;0.0
+265;"Paneer Tikka";605.0;"Indian";"Vegan";"";"Y";20;0.0
+266;"Mutton Biryani";912.0;"Indian";"Vegetables";"";"Y";5;0.0
+267;"Raita";958.0;"Indian";"Vegan";"";"N";12;0.0
+268;"Veg Kofta";835.0;"Indian";"Corn";"";"N";2;0.0
+269;"Butter Naan";977.0;"Indian";"Vegetables";"";"Y";6;0.0
+270;"Mutton Biryani";575.0;"Indian";"Flour";"";"N";1;0.0
+271;"Chicken Lolipop";213.0;"Indian";"Meat";"";"N";4;0.0
+272;"Mutton Kebab";535.0;"Indian";"Flour";"";"Y";14;0.0
+273;"Roti Bread";763.0;"Indian";"Vegan";"";"Y";15;0.0
+274;"Roti Bread";457.0;"Indian";"Vegan";"";"N";9;0.0
+275;"Plain Rice";394.0;"Indian";"Vegan";"";"Y";20;0.0
+276;"Chicken Keema Naan";708.0;"Indian";"Fish";"";"N";16;0.0
+277;"Chicken Keema Naan";109.0;"Indian";"Vegan";"";"N";16;0.0
+278;"Paneer Tikka";631.0;"Indian";"Flour";"";"N";18;0.0
+279;"Mutton Kebab";342.0;"Indian";"Vegetables";"";"N";17;0.0
+280;"Plain Rice";909.0;"Indian";"Spice";"";"N";2;0.0
+281;"Plain Rice";607.0;"Indian";"Meat";"";"Y";19;0.0
+282;"Chicken Keema Naan";227.0;"Indian";"Vegetables";"";"N";17;0.0
+283;"Chicken Tandoori";144.0;"Indian";"Corn";"";"Y";4;0.0
+284;"Mutton Biryani";509.0;"Indian";"Fish";"";"N";19;0.0
+285;"Raita";575.0;"Indian";"Meat";"";"N";6;0.0
+286;"Chicken Lolipop";905.0;"Indian";"Fish";"";"Y";2;0.0
+287;"Chicken Biryani";578.0;"Indian";"Vegetables";"";"N";6;0.0
+288;"Veg Thali Set";137.0;"Indian";"Fish";"";"Y";13;0.0
+289;"Matka Mutton";957.0;"Indian";"Dairy";"";"Y";16;0.0
+290;"Plain Rice";829.0;"Indian";"Meat";"";"N";8;0.0
+291;"Mutton Biryani";789.0;"Indian";"Vegetables";"";"Y";4;0.0
+292;"Butter Garlic Naan";942.0;"Indian";"Flour";"";"Y";3;0.0
+293;"Butter Garlic Naan";490.0;"Indian";"Vegan";"";"N";13;0.0
+294;"Matka Mutton";336.0;"Indian";"Vegetables";"";"N";17;0.0
+295;"Raita";194.0;"Indian";"Tomato";"";"N";9;0.0
+296;"Raita";987.0;"Indian";"Dairy";"";"Y";11;0.0
+297;"Butter Naan";942.0;"Indian";"Dairy";"";"Y";4;0.0
+298;"Plain Rice";466.0;"Indian";"Spice";"";"Y";10;0.0
+299;"Aloo Dum";594.0;"Indian";"Spice";"";"N";14;0.0
+300;"Aloo Dum";303.0;"Indian";"Corn";"";"Y";8;0.0
+301;"Mexicana Nachos";71.0;"Mexican";"Wheat";"";"Y";20;0.0
+302;"Nachos w Salsa";592.0;"Mexican";"Corn";"";"Y";10;0.0
+303;"Chicken Nachos";999.0;"Mexican";"Flour";"";"Y";12;0.0
+304;"Veg Tacos";492.0;"Mexican";"Vegetables";"";"Y";6;0.0
+305;"Spicy Durango";85.0;"Mexican";"Vegan";"";"Y";4;0.0
+306;"Pizza Mexicana";815.0;"Mexican";"Dairy";"";"Y";3;0.0
+307;"Spicy Durango";85.0;"Mexican";"Tomato";"";"Y";12;0.0
+308;"Spicy Durango";567.0;"Mexican";"Fish";"";"N";19;0.0
+309;"Spicy Durango";978.0;"Mexican";"Meat";"";"N";3;0.0
+310;"Beef Tacos";490.0;"Mexican";"Vegetables";"";"Y";17;0.0
+311;"Chicken Nachos";802.0;"Mexican";"Corn";"";"Y";6;0.0
+312;"Nachos w Salsa";389.0;"Mexican";"Vegan";"";"Y";2;0.0
+313;"Chicken Tortillas";152.0;"Mexican";"Meat";"";"Y";5;0.0
+314;"Spicy Durango";569.0;"Mexican";"Spice";"";"Y";7;0.0
+315;"Fresh Salads";713.0;"Mexican";"Tomato";"";"Y";13;0.0
+316;"Tortillas w Meat Sauce";979.0;"Mexican";"Meat";"";"N";14;0.0
+317;"Tortillas w Meat Sauce";955.0;"Mexican";"Spice";"";"N";18;0.0
+318;"Tortillas w Meat Sauce";934.0;"Mexican";"Dairy";"";"Y";20;0.0
+319;"Pork Knuckle";382.0;"Mexican";"Meat";"";"Y";4;0.0
+320;"Fresh Salads";275.0;"Mexican";"Tomato";"";"N";19;0.0
+321;"Nachos w Salsa";930.0;"Mexican";"Corn";"";"Y";4;0.0
+322;"Tortillas w Meat Sauce";300.0;"Mexican";"Tomato";"";"Y";16;0.0
+323;"Chicken Nachos";857.0;"Mexican";"Corn";"";"N";12;0.0
+324;"Fresh Salads";471.0;"Mexican";"Tomato";"";"N";3;0.0
+325;"Chicken Tortillas";396.0;"Mexican";"Flour";"";"Y";5;0.0
+326;"Spicy Durango";469.0;"Mexican";"Flour";"";"Y";8;0.0
+327;"Tortillas w Meat Sauce";536.0;"Mexican";"Dairy";"";"Y";9;0.0
+328;"Spicy Durango";302.0;"Mexican";"Vegetables";"";"Y";8;0.0
+329;"Veg Tacos";346.0;"Mexican";"Spice";"";"N";16;0.0
+330;"Nachos w Salsa";156.0;"Mexican";"Spice";"";"Y";9;0.0
+331;"Mexicana Nachos";256.0;"Mexican";"Flour";"";"N";1;0.0
+332;"Mexicana Tortillas";909.0;"Mexican";"Fish";"";"N";15;0.0
+333;"Chicken Nachos";905.0;"Mexican";"Vegetables";"";"N";11;0.0
+334;"Chicken Tacos";482.0;"Mexican";"Vegan";"";"Y";20;0.0
+335;"Chicken Nachos";705.0;"Mexican";"Fish";"";"N";7;0.0
+336;"Tortillas w Meat Sauce";637.0;"Mexican";"Corn";"";"N";15;0.0
+337;"Spicy Durango";232.0;"Mexican";"Fish";"";"Y";16;0.0
+338;"Veg Tacos";440.0;"Mexican";"Flour";"";"N";11;0.0
+339;"Nachos w Salsa";978.0;"Mexican";"Fish";"";"Y";5;0.0
+340;"Chicken Tacos";884.0;"Mexican";"Dairy";"";"Y";5;0.0
+341;"Spicy Durango";654.0;"Mexican";"Flour";"";"Y";4;0.0
+342;"Spicy Durango";968.0;"Mexican";"Dairy";"";"Y";17;0.0
+343;"Pizza Mexicana";221.0;"Mexican";"Fish";"";"Y";14;0.0
+344;"Fresh Salads";873.0;"Mexican";"Fish";"";"N";13;0.0
+345;"Chicken Tortillas";438.0;"Mexican";"Dairy";"";"Y";8;0.0
+346;"Veg Tacos";316.0;"Mexican";"Vegetables";"";"Y";4;0.0
+347;"Mexicana Nachos";238.0;"Mexican";"Corn";"";"N";18;0.0
+348;"Salads w Yogurt";332.0;"Mexican";"Vegetables";"";"Y";7;0.0
+349;"Fresh Salads";643.0;"Mexican";"Dairy";"";"N";17;0.0
+350;"Tortillas w Meat Sauce";609.0;"Mexican";"Tomato";"";"Y";2;0.0
+351;"Salads w Yogurt";622.0;"Mexican";"Meat";"";"Y";6;0.0
+352;"Fresh Salads";727.0;"Mexican";"Spice";"";"Y";15;0.0
+353;"Salads w Yogurt";191.0;"Mexican";"Corn";"";"N";9;0.0
+354;"Fresh Salads";203.0;"Mexican";"Tomato";"";"Y";14;0.0
+355;"Nachos w Salsa";508.0;"Mexican";"Fish";"";"Y";17;0.0
+356;"Chicken Tortillas";497.0;"Mexican";"Tomato";"";"Y";18;0.0
+357;"Mexicana Nachos";410.0;"Mexican";"Fish";"";"N";15;0.0
+358;"Nachos w Salsa";773.0;"Mexican";"Corn";"";"Y";2;0.0
+359;"Veg Tacos";194.0;"Mexican";"Fish";"";"Y";5;0.0
+360;"Tortillas w Meat Sauce";149.0;"Mexican";"Flour";"";"Y";2;0.0
+361;"Veg Tacos";168.0;"Mexican";"Tomato";"";"Y";13;0.0
+362;"Salads w Yogurt";267.0;"Mexican";"Wheat";"";"Y";7;0.0
+363;"Spicy Durango";142.0;"Mexican";"Spice";"";"N";9;0.0
+364;"Nachos w Salsa";509.0;"Mexican";"Fish";"";"N";19;0.0
+365;"Spicy Durango";816.0;"Mexican";"Dairy";"";"Y";8;0.0
+366;"Spicy Durango";479.0;"Mexican";"Flour";"";"N";16;0.0
+367;"Fresh Salads";316.0;"Mexican";"Corn";"";"Y";3;0.0
+368;"Pizza Mexicana";169.0;"Mexican";"Corn";"";"N";1;0.0
+369;"Pizza Mexicana";563.0;"Mexican";"Fish";"";"Y";4;0.0
+370;"Pizza Mexicana";227.0;"Mexican";"Fish";"";"N";8;0.0
+371;"Spicy Durango";113.0;"Mexican";"Vegetables";"";"Y";19;0.0
+372;"Mexicana Tortillas";967.0;"Mexican";"Vegetables";"";"Y";19;0.0
+373;"Nachos w Salsa";881.0;"Mexican";"Tomato";"";"N";13;0.0
+374;"Chicken Nachos";931.0;"Mexican";"Wheat";"";"Y";16;0.0
+375;"Nachos w Salsa";510.0;"Mexican";"Spice";"";"Y";17;0.0
+376;"Salads w Yogurt";152.0;"Mexican";"Tomato";"";"Y";11;0.0
+377;"Mexicana Tortillas";774.0;"Mexican";"Fish";"";"Y";11;0.0
+378;"Mexicana Tortillas";695.0;"Mexican";"Wheat";"";"Y";8;0.0
+379;"Pork Knuckle";784.0;"Mexican";"Corn";"";"Y";12;0.0
+380;"Mexicana Nachos";600.0;"Mexican";"Meat";"";"N";7;0.0
+381;"Mexicana Nachos";404.0;"Mexican";"Fish";"";"N";14;0.0
+382;"Pizza Mexicana";247.0;"Mexican";"Dairy";"";"Y";9;0.0
+383;"Spicy Durango";864.0;"Mexican";"Tomato";"";"N";16;0.0
+384;"Veg Tacos";152.0;"Mexican";"Corn";"";"N";9;0.0
+385;"Chicken Tacos";871.0;"Mexican";"Tomato";"";"Y";13;0.0
+386;"Spicy Durango";478.0;"Mexican";"Dairy";"";"Y";12;0.0
+387;"Nachos w Salsa";433.0;"Mexican";"Vegan";"";"N";13;0.0
+388;"Mexicana Tortillas";638.0;"Mexican";"Meat";"";"Y";13;0.0
+389;"Tortillas w Meat Sauce";418.0;"Mexican";"Vegan";"";"Y";12;0.0
+390;"Tortillas w Meat Sauce";950.0;"Mexican";"Vegetables";"";"N";5;0.0
+391;"Beef Tacos";501.0;"Mexican";"Vegan";"";"Y";4;0.0
+392;"Spicy Durango";587.0;"Mexican";"Meat";"";"N";17;0.0
+393;"Veg Tacos";960.0;"Mexican";"Dairy";"";"Y";19;0.0
+394;"Beef Tacos";485.0;"Mexican";"Corn";"";"N";6;0.0
+395;"Spicy Durango";560.0;"Mexican";"Spice";"";"N";19;0.0
+396;"Salads w Yogurt";590.0;"Mexican";"Flour";"";"Y";2;0.0
+397;"Pork Knuckle";224.0;"Mexican";"Corn";"";"N";15;0.0
+398;"Fresh Salads";787.0;"Mexican";"Meat";"";"Y";11;0.0
+399;"Chicken Tacos";320.0;"Mexican";"Wheat";"";"Y";11;0.0
+400;"Spicy Durango";127.0;"Mexican";"Flour";"";"N";5;0.0
+401;"Ladoo";79.0;"Desserts";"Dairy";"";"Y";19;0.0
+402;"Rash Malai";462.0;"Desserts";"Flour";"";"N";9;0.0
+403;"Choco Lava";259.0;"Desserts";"Dairy";"";"N";15;0.0
+404;"Vanilla Ice Cream";255.0;"Desserts";"Dairy";"";"Y";7;0.0
+405;"Blue Berry Cheese Cake";600.0;"Desserts";"Wheat";"";"N";7;0.0
+406;"Coffee Cream Cake";941.0;"Desserts";"Flour";"";"Y";11;0.0
+407;"Brown Muffin";567.0;"Desserts";"Wheat";"";"Y";19;0.0
+408;"Choco Bar";278.0;"Desserts";"Flour";"";"N";7;0.0
+409;"Choco Lava";466.0;"Desserts";"Flour";"";"N";5;0.0
+410;"Black Forest Pastry";429.0;"Desserts";"Dairy";"";"Y";1;0.0
+411;"Chocolate Brownie";711.0;"Desserts";"Dairy";"";"Y";5;0.0
+412;"Ice Fudge";864.0;"Desserts";"Wheat";"";"Y";16;0.0
+413;"Chocolate Brownie";987.0;"Desserts";"Dairy";"";"N";1;0.0
+414;"Chocolate Brownie";562.0;"Desserts";"Wheat";"";"N";6;0.0
+415;"Cheese Cake";917.0;"Desserts";"Dairy";"";"Y";15;0.0
+416;"Choco Chip";822.0;"Desserts";"Flour";"";"N";3;0.0
+417;"Chocolate Brownie";723.0;"Desserts";"Wheat";"";"N";3;0.0
+418;"Cashew Milk Shake";972.0;"Desserts";"Dairy";"";"N";8;0.0
+419;"Choco Bar";441.0;"Desserts";"Dairy";"";"Y";13;0.0
+420;"Strawberry Ice Cream";907.0;"Desserts";"Wheat";"";"Y";18;0.0
+421;"Choco Lava";774.0;"Desserts";"Wheat";"";"N";12;0.0
+422;"Cashew Milk Shake";258.0;"Desserts";"Wheat";"";"N";2;0.0
+423;"Choco Bar";976.0;"Desserts";"Flour";"";"Y";6;0.0
+424;"Brown Muffin";537.0;"Desserts";"Flour";"";"Y";11;0.0
+425;"Black Forest Pastry";198.0;"Desserts";"Flour";"";"N";13;0.0
+426;"Black Forest Pastry";536.0;"Desserts";"Dairy";"";"N";2;0.0
+427;"Black Forest Pastry";572.0;"Desserts";"Flour";"";"N";15;0.0
+428;"Strawberry Ice Cream";279.0;"Desserts";"Dairy";"";"N";10;0.0
+429;"Ladoo";576.0;"Desserts";"Wheat";"";"N";16;0.0
+430;"Coffee Cream Cake";123.0;"Desserts";"Wheat";"";"N";13;0.0
+431;"Choco Bar";199.0;"Desserts";"Flour";"";"Y";8;0.0
+432;"Brown Muffin";992.0;"Desserts";"Flour";"";"N";17;0.0
+433;"Cheese Cake";92.0;"Desserts";"Flour";"";"Y";9;0.0
+434;"Ice Fudge";299.0;"Desserts";"Flour";"";"Y";19;0.0
+435;"Strawberry Ice Cream";639.0;"Desserts";"Dairy";"";"Y";18;0.0
+436;"Choco Lava";593.0;"Desserts";"Dairy";"";"Y";12;0.0
+437;"Coffee Cream Cake";723.0;"Desserts";"Wheat";"";"Y";16;0.0
+438;"Ladoo";152.0;"Desserts";"Flour";"";"N";6;0.0
+439;"Cheese Cake";115.0;"Desserts";"Dairy";"";"Y";13;0.0
+440;"Choco Chip";771.0;"Desserts";"Wheat";"";"Y";16;0.0
+441;"Choco Bar";972.0;"Desserts";"Wheat";"";"Y";17;0.0
+442;"Ladoo";834.0;"Desserts";"Wheat";"";"N";4;0.0
+443;"Cashew Milk Shake";741.0;"Desserts";"Flour";"";"Y";2;0.0
+444;"Rash Malai";975.0;"Desserts";"Dairy";"";"Y";7;0.0
+445;"Choco Lava";864.0;"Desserts";"Wheat";"";"Y";16;0.0
+446;"Black Forest Pastry";359.0;"Desserts";"Dairy";"";"Y";15;0.0
+447;"Ice Fudge";417.0;"Desserts";"Wheat";"";"Y";19;0.0
+448;"Ladoo";542.0;"Desserts";"Flour";"";"Y";19;0.0
+449;"Rash Malai";860.0;"Desserts";"Flour";"";"Y";9;0.0
+450;"Vanilla Ice Cream";945.0;"Desserts";"Dairy";"";"N";9;0.0
+451;"Coffee Cream Cake";93.0;"Desserts";"Dairy";"";"N";19;0.0
+452;"Black Forest Pastry";418.0;"Desserts";"Dairy";"";"N";19;0.0
+453;"Choco Bar";157.0;"Desserts";"Wheat";"";"Y";4;0.0
+454;"Cashew Milk Shake";354.0;"Desserts";"Flour";"";"N";20;0.0
+455;"Cheese Cake";595.0;"Desserts";"Wheat";"";"Y";6;0.0
+456;"Ice Fudge";310.0;"Desserts";"Flour";"";"N";16;0.0
+457;"Strawberry Ice Cream";440.0;"Desserts";"Dairy";"";"N";11;0.0
+458;"Brown Muffin";745.0;"Desserts";"Flour";"";"N";18;0.0
+459;"Choco Bar";199.0;"Desserts";"Wheat";"";"Y";10;0.0
+460;"Blue Berry Cheese Cake";429.0;"Desserts";"Wheat";"";"Y";7;0.0
+461;"Choco Lava";258.0;"Desserts";"Wheat";"";"Y";7;0.0
+462;"Cheese Cake";577.0;"Desserts";"Dairy";"";"Y";17;0.0
+463;"Ice Fudge";91.0;"Desserts";"Wheat";"";"N";1;0.0
+464;"Choco Bar";564.0;"Desserts";"Flour";"";"N";20;0.0
+465;"Black Forest Pastry";244.0;"Desserts";"Dairy";"";"N";13;0.0
+466;"Chocolate Brownie";759.0;"Desserts";"Dairy";"";"N";18;0.0
+467;"Coffee Cream Cake";255.0;"Desserts";"Flour";"";"Y";2;0.0
+468;"Choco Chip";874.0;"Desserts";"Dairy";"";"N";17;0.0
+469;"Brown Muffin";178.0;"Desserts";"Wheat";"";"Y";1;0.0
+470;"Choco Lava";952.0;"Desserts";"Flour";"";"Y";7;0.0
+471;"Vanilla Ice Cream";860.0;"Desserts";"Wheat";"";"N";16;0.0
+472;"Coffee Cream Cake";211.0;"Desserts";"Flour";"";"N";2;0.0
+473;"Choco Lava";388.0;"Desserts";"Wheat";"";"N";11;0.0
+474;"Apple Pie";881.0;"Desserts";"Dairy";"";"N";13;0.0
+475;"Ladoo";411.0;"Desserts";"Dairy";"";"Y";5;0.0
+476;"Choco Lava";986.0;"Desserts";"Flour";"";"Y";11;0.0
+477;"Ladoo";940.0;"Desserts";"Flour";"";"Y";10;0.0
+478;"Black Forest Pastry";146.0;"Desserts";"Dairy";"";"Y";9;0.0
+479;"Rash Malai";529.0;"Desserts";"Dairy";"";"N";16;0.0
+480;"Coffee Cream Cake";556.0;"Desserts";"Dairy";"";"N";10;0.0
+481;"Apple Pie";844.0;"Desserts";"Flour";"";"N";16;0.0
+482;"Apple Pie";375.0;"Desserts";"Dairy";"";"Y";12;0.0
+483;"Choco Chip";268.0;"Desserts";"Wheat";"";"N";10;0.0
+484;"Choco Lava";618.0;"Desserts";"Flour";"";"N";11;0.0
+485;"Choco Chip";619.0;"Desserts";"Dairy";"";"N";15;0.0
+486;"Choco Chip";320.0;"Desserts";"Wheat";"";"N";12;0.0
+487;"Choco Lava";310.0;"Desserts";"Flour";"";"N";4;0.0
+488;"Choco Bar";925.0;"Desserts";"Wheat";"";"N";8;0.0
+489;"Blue Berry Cheese Cake";769.0;"Desserts";"Flour";"";"N";6;0.0
+490;"Chocolate Brownie";463.0;"Desserts";"Wheat";"";"Y";13;0.0
+491;"Cashew Milk Shake";161.0;"Desserts";"Flour";"";"N";4;0.0
+492;"Cashew Milk Shake";760.0;"Desserts";"Wheat";"";"Y";11;0.0
+493;"Rash Malai";185.0;"Desserts";"Dairy";"";"N";15;0.0
+494;"Blue Berry Cheese Cake";245.0;"Desserts";"Dairy";"";"Y";16;0.0
+495;"Brown Muffin";645.0;"Desserts";"Dairy";"";"N";19;0.0
+496;"Ice Fudge";137.0;"Desserts";"Wheat";"";"Y";7;0.0
+497;"Apple Pie";926.0;"Desserts";"Dairy";"";"Y";12;0.0
+498;"Strawberry Ice Cream";782.0;"Desserts";"Wheat";"";"Y";14;0.0
+499;"Choco Chip";253.0;"Desserts";"Dairy";"";"N";5;0.0
+500;"Rash Malai";379.0;"Desserts";"Flour";"";"N";7;0.0

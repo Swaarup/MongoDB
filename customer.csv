@@ -1,4 +1,4 @@
-"customerId";"firstName";"lastName";"contact";"email";"status";"dob";"gender";"createdAt"
+customerId;firstName;lastName;contact;email;status;dob;gender;createdAt
 1;"Stone";"Aguilar";"16611128 7634";"tortor.at.risus@loremtristique.com";"N";"1986-10-02";"m";"2021-06-13 10:40:53"
 2;"Wang";"Silva";"16840311 3999";"diam@facilisisegetipsum.co.uk";"Y";"1986-10-02";"m";"2022-07-14 06:05:38"
 3;"Ivan";"Willis";"16070425 6072";"in.cursus.et@lacusCrasinterdum.edu";"Y";"1986-10-02";"f";"2022-03-02 23:53:43"
